@@ -13,9 +13,9 @@ Sex Male | Date of birth 06/05/1991 | Nationality Romanian
 
 WORK EXPERIENCE
 
-08/2017–Present
-QA Engineer
-Ubuntu Mate (project)
+    08/2017–Present
+  QA Engineer
+ Ubuntu Mate (project)
 Ubuntu MATE is a stable, easy-to-use Linux operating system with a configurable desktop
 environment base on Ubuntu.
 As a QA team member i have the responsibility to test the OS and the Core applications in the
@@ -30,9 +30,9 @@ source development. Launchpad's features include code hosting, bug tracking, tra
 blueprints and a community-based answer tracker.
 
 
-2013–Present
-QA Engineer
-Project
+     2013–Present
+  QA Engineer
+ Project
 I've started reporting issus that i had with a Ubuntu or a flavor of it. From the core aplications , desktop
 environments, open source aplications to the kernel (drivers).
 In 2005 i've find a new Ubuntu distribution named Ubuntu Mate and started to use all my time testing
@@ -43,50 +43,52 @@ complete set of widgets, GTK+ is suitable for projects ranging from small one-of
 application suites.
 
 
-2014–2018
-Content Creator
-Project
+    2014–2018
+  Content Creator
+ Project
 I've started with a YouTube channel where i done two tipes of content:
 "How to", which shows step by step how to install / fix some applications /games.
-"Bugs in the os", in which i show step by step problems in different
-26/9/18
-© European Union, 2002-2018 | http://europass.cedefop.europa.eu
-Page 1 / 4Curriculum vitae
-Alexandru Polihron
-versions based on Ubuntu that help developers in reproducing problems and repairing them.
+"Bugs in the os", in which i show step by step problems in different versions based on Ubuntu that help developers in reproducing problems and repairing them.
 After one year on the platform, users started to ask and requests a site. So i've made one.
 On the site i had all sorts of tutorials ("How to", "Gaming", "Tweaks",etc.) in English for distributions
 based on Ubuntu.
 This site has been visited by over 500,640 visitors and has received the approval of over 20 youtubers
 appearing in their Video tutorials .
-EDUCATION AND TRAINING
+
+
+                                         EDUCATION AND TRAINING
+
 2002–2010
 High school diploma (Baccalaureate)
 Liceul de Coregrafie “Floria Capsali”, Bucuresti (Romania)
-PERSONAL SKILLS
-Mother tongue(s)
+
+                                          PERSONAL SKILLS
+ Mother tongue(s)
 Romanian
-Foreign language(s)
+ Foreign language(s)
 English
-UNDERSTANDING
-SPEAKING
+ 
+  UNDERSTANDING
+ SPEAKING
 WRITING
 Listening Reading Spoken interaction Spoken production
 C2 C2 C1 B2
 B2
 Levels: A1 and A2: Basic user - B1 and B2: Independent user - C1 and C2: Proficient user
 Common European Framework of Reference for Languages
-Communication skills
+
+
+    Communication skills
 ▪good communication skills gained through collaboration with various Open Source projects;
 ▪ability to communicate effectively in a foreign language (participation in finding and correcting
 problems in different Open Source projects in English);
 Organisational / managerial skills
-Job-related skills
+  Job-related skills
 ▪Teamwork, analytical thinking, focus on results
 ▪ Teamwork orientated
 ▪ Problem solving
 ▪ Continuous learner
-Digital skills
+  Digital skills
 SELF-ASSESSMENT
 Information
 processing Communication Content
